@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1004343577423",
+    "firebase_url": "https://lingualearn-425518-default-rtdb.firebaseio.com",
+    "project_id": "lingualearn-425518",
+    "storage_bucket": "lingualearn-425518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004343577423:android:a545ca5da6c7157acb533a",
+        "android_client_info": {
+          "package_name": "com.Linostudiong.LinguaLearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtXWNST-tACwOwW1iGkD7KQ5EcUalTlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

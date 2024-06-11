@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(135deg, #6D5BBA, #8D58BF, #DE67B6);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    font-size: 14px;
+  }
+  
